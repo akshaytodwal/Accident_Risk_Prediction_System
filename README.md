@@ -1,0 +1,2 @@
+# Accident_Risk_Prediction_System
+Accident Risk Prediction system aims to predict the occurrence of a probable accident based on the data of past occurred Accidents in the United States of America from year 2016 to 2020. This system has ‘Severity’ as the target variable and its predictions are based on a variety of intrinsic and contextual attributes such as location, time, natural language description, weather, period-of-day, and points-of-interest. 
